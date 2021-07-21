@@ -12,9 +12,16 @@ public class A {
 		System.out.println("new otp functionality");
 		System.out.println("patches to otp");
 	}
+
 	public void m4()
 	{
 		System.out.println("last functionality");
+
+	}
+	public void m3()
+	{
+		
+    System.out.println("pending work completed");
 	}
 
 }
