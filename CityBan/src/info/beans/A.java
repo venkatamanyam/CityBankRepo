@@ -7,4 +7,8 @@ public class A {
 		System.out.println("Welcome to");
 		System.out.println("Hellow");
 	}
+	public void m2()
+	{
+		System.out.println("new otp functionality");
+	}
 }
